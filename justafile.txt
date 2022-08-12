@@ -25,4 +25,8 @@ Just another section
 Editing from the remote repository
 just to see the changes
 Insertando comentario
+<<<<<<< HEAD
 and now....adding line in the local repo
+=======
+# Adding line in the remote repo
+>>>>>>> 35ae488218c8b5ce61873646f43ce8a877e49a31
